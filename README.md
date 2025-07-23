@@ -1,5 +1,3 @@
-#Chess Club Database
-
 This project is a relational database built in Microsoft Access to manage a mock chess club. It tracks players, tournaments, game results, and tournament expenses.
 
 Key Features
