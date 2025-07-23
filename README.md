@@ -1,13 +1,13 @@
 **This project is a relational database built in Microsoft Access to manage a mock chess club.**
 
 **Entities**
-Members
-Tournmanets
-Member_Tournament
-Game_Records
-Team_Calender
-Move_list
-Expenses
+- Members
+- Tournmanets
+- Member_Tournament
+- Game_Records
+- Team_Calender
+- Move_list
+- Expenses
 
 **Design Process**
 - Created relational diagrams to define table relationships using primary and foreign keys
