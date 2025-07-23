@@ -1,4 +1,4 @@
-**This project is a relational database built in Microsoft Access to manage a mock chess club.**
+**This project is a relational database built in Microsoft Access to manage a mock chess club. The Access File must be trusted in order to run the SQL queries.**
 
 **Entities**
 - Members
